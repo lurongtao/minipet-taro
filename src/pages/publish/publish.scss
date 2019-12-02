@@ -1,0 +1,36 @@
+.wrap {
+
+}
+
+.item {
+  display: flex;
+  height: 100rpx;
+  border-bottom: solid 1rpx #eee;
+}
+
+.label {
+  width: 180rpx;
+  line-height: 100rpx;
+  padding-left: 20rpx;
+}
+
+.content {
+  flex: 1;
+  /* line-height: 100rpx; */
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+
+.content input {
+  height: 100%;
+}
+
+.btn {
+  margin: 20rpx;
+}
+
+button[type=default] {
+  background: #f29a38;
+  color: #fff;
+}

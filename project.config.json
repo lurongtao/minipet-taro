@@ -1,0 +1,28 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "minipet",
+	"description": "minipet",
+	"appid": "wxeb8c70d2f9b9d1d3",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"libVersion": "2.9.2",
+	"condition": {}
+}
